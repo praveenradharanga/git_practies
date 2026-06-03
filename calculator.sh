@@ -7,5 +7,5 @@
 # to calculkate the eliments
 # ############
 
-x=a+b
-z=a-b
+
+z=a*b
