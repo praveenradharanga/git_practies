@@ -7,5 +7,8 @@
 # to calculkate the eliments
 # ############
 
-
+#addition fiunction
 z=a*b
+
+# divison function
+ x/y=z
